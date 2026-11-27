@@ -1,0 +1,50 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel">
+<head><meta charset="utf-8"></head>
+<body>
+<table>
+<tr>
+<th>Detalhes</th>
+<th>Farmácia</th>
+<th>Propriedade/ Exploração</th>
+<th>NIF / NIPC</th>
+<th>Nº do Alvará</th>
+<th>Arruamento</th>
+<th>Código Postal</th>
+<th>Localidade</th>
+<th>Distrito</th>
+<th>Concelho</th>
+<th>Freguesia</th>
+<th>Situação do Alvará</th>
+</tr>
+<tr>
+<td></td>
+<td>SENA PADEZ</td>
+<td>FARMÁCIA SENA PADEZ, LDA.</td>
+<td>501234567</td>
+<td>4911</td>
+<td>AV EUGENIO DE ANDRADE, LOTE 65</td>
+<td>6230-421</td>
+<td>FUNDAO</td>
+<td>Castelo Branco</td>
+<td>Fundão</td>
+<td>Fundão</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td>ALPEDRINHA</td>
+<td>FARMÁCIA ALPEDRINHA, LDA.</td>
+<td>502345678</td>
+<td>2130</td>
+<td>LARGO DE SANTO ANTONIO, N.º 1</td>
+<td>6230-051</td>
+<td>ALPEDRINHA</td>
+<td>Castelo Branco</td>
+<td>Fundão</td>
+<td>Alpedrinha</td>
+<td></td>
+</tr>
+</table>
+</body>
+</html>
