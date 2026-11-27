@@ -1,0 +1,24 @@
+{
+  "name": "@apiaberta/connector-farmacias",
+  "version": "1.0.0",
+  "description": "Farmácias (Infarmed + Linha 1400/ANF) connector for API Aberta",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch src/index.js",
+    "start": "node src/index.js",
+    "test": "find src test -name '*.js' | xargs node --check && node --test --test-concurrency=1 test/*.test.js"
+  },
+  "dependencies": {
+    "fastify": "^5.0.0",
+    "mongoose": "^8.0.0",
+    "node-cron": "^3.0.0",
+    "pino-pretty": "^13.0.0",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "mongodb-memory-server": "^10.1.4"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
